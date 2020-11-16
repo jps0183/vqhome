@@ -1,0 +1,21 @@
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: tomato;
+  margin-left: 20px;
+}
+
+h2 {
+  color: lightyellow;
+  margin-left: 20px;
+}
+
+p {
+  color: cornflowerblue;
+}
+
+jumbotron {
+  text-align: left;
+}
